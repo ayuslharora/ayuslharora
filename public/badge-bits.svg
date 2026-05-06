@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="20" role="img" aria-label="BITS Pilani 2029">
+  <defs>
+    <linearGradient id="bitsAccent" x1="78" x2="116" y1="0" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d9bd0"/>
+      <stop offset="1" stop-color="#0b5f85"/>
+    </linearGradient>
+  </defs>
+  <rect width="116" height="20" rx="2" fill="#111111"/>
+  <rect width="78" height="20" rx="2" fill="#2b2b2b"/>
+  <path fill="#2b2b2b" d="M76 0h4v20h-4z"/>
+  <rect x="78" width="38" height="20" rx="2" fill="url(#bitsAccent)"/>
+  <path fill="url(#bitsAccent)" d="M78 0h4v20h-4z"/>
+  <text x="39" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">BITS Pilani</text>
+  <text x="97" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">2029</text>
+</svg>

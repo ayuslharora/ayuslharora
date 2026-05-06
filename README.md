@@ -11,33 +11,35 @@
         computer vision experiments, generative AI apps, full-stack tools, and
         small browser projects that are fun to ship.
       </p>
-      <img src="https://img.shields.io/badge/BITS%20Pilani-2029-36BCF7?style=flat-square" alt="BITS Pilani 2029" />
+      <img src="public/badge-bits.svg" alt="BITS Pilani 2029" />
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/IOM-International%20Rank%201-f59e0b?style=flat-square" alt="IOM International Rank 1" />
+      <img src="public/badge-iom.svg" alt="IOM International Rank 1" />
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Based%20in-India-22c55e?style=flat-square" alt="Based in India" />
+      <img src="public/badge-based.svg" alt="Based in India" />
       <br />
-      <img src="https://img.shields.io/badge/Focus-Computer%20Vision-7c3aed?style=flat-square" alt="Computer Vision" />
+      <img src="public/badge-focus.svg" alt="Full Stack" />
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Builds-Next.js%20Apps-0ea5e9?style=flat-square" alt="Next.js Apps" />
+      <img src="public/badge-builds.svg" alt="Next.js Apps" />
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Projects-AI%20%2B%20Games-ef4444?style=flat-square" alt="AI and Games" />
+      <img src="public/badge-projects.svg" alt="Web Applications" />
       <br />
       <a href="mailto:ayush.arora@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="public/badge-gmail.svg" alt="Gmail" />
       </a>
       &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/ayuslh">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="public/badge-linkedin.svg" alt="LinkedIn" />
       </a>
       &nbsp;&nbsp;
       <a href="https://ayuslh.in">
-        <img src="https://img.shields.io/badge/Portfolio-ayuslh.in-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+        <img src="public/ayuslh-badge.svg" alt="Portfolio Ayuslh.in" />
       </a>
       &nbsp;&nbsp;
       <a href="https://leetcode.com/u/Ayuslh/">
-        <img src="https://img.shields.io/badge/LeetCode-Ayuslh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+        <img src="public/badge-leetcode.svg" alt="LeetCode" />
       </a>
+      &nbsp;&nbsp;
+      <img src="public/badge-skill.svg" alt="Problem Solving" />
     </td>
     <td width="36%" align="center" valign="top">
       <img src="public/about-portrait.webp" width="200" alt="Ayush Arora portrait" />
@@ -86,31 +88,31 @@ idea -> prototype -> ship -> learn
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>AI Game Controller</strong>
+      <strong><a href="https://finz-theta.vercel.app/dashboard">FinZ</a></strong>
       <br />
-      Gesture-driven controls using Python, OpenCV, ML, and pyautogui.
+      Finance dashboard for expenses, currency rates, and news. <a href="https://ayuslh.in/project/finz">More info</a>.
     </td>
     <td width="33%" valign="top">
-      <strong>Flavor Forge</strong>
+      <strong><a href="https://flavor-forge-sigma.vercel.app/">Flavor Forge</a></strong>
       <br />
-      Recipe discovery UI built with React, Tailwind, and public APIs.
+      Recipe discovery UI built with React, Tailwind, and public APIs. <a href="https://ayuslh.in/project/flavor-forge">More info</a>.
     </td>
     <td width="33%" valign="top">
-      <strong>Artifex AI Generator</strong>
+      <strong><a href="https://artifex-nu.vercel.app/">Artifex AI Generator</a></strong>
       <br />
-      Hackathon build for AI image and video generation workflows.
+      Hackathon build for AI image and video workflows. <a href="https://ayuslh.in/project/ai-generator">More info</a>.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>Bakery Manager</strong>
+      <strong><a href="https://resume.ayuslh.in">ResuMe</a></strong>
       <br />
-      Python, MySQL, and Tkinter software for shop operations.
+      AI-powered resume builder and grader with ATS feedback. <a href="https://ayuslh.in/project/resume-builder">More info</a>.
     </td>
     <td width="33%" valign="top">
-      <strong>Browser Games</strong>
+      <strong><a href="https://ayuslharora.github.io/Daydream_Hackathon-Debt_of_Seconds1/">Browser Games</a></strong>
       <br />
-      Vanilla JS games with custom state, physics, and collision logic.
+      Vanilla JS game with custom state and physics. <a href="https://ayuslh.in/project/hackathon-game">More info</a>.
     </td>
     <td width="33%" valign="top">
       <strong>Portfolio</strong>

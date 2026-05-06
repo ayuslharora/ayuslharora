@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="20" role="img" aria-label="Builds Next.js Apps">
+  <defs>
+    <linearGradient id="buildsAccent" x1="54" x2="142" y1="0" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1caec5"/>
+      <stop offset="1" stop-color="#096988"/>
+    </linearGradient>
+  </defs>
+  <rect width="142" height="20" rx="2" fill="#111111"/>
+  <rect width="54" height="20" rx="2" fill="#2b2b2b"/>
+  <path fill="#2b2b2b" d="M52 0h4v20h-4z"/>
+  <rect x="54" width="88" height="20" rx="2" fill="url(#buildsAccent)"/>
+  <path fill="url(#buildsAccent)" d="M54 0h4v20h-4z"/>
+  <text x="27" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">Builds</text>
+  <text x="98" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">Next.js Apps</text>
+</svg>
